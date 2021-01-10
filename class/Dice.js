@@ -36,7 +36,6 @@ class Dice {
     return (value = {
       expression: expression,
       results: results.values,
-      index: results.index,
       result: result < 0 ? 0 : result,
     });
   }
