@@ -22,7 +22,6 @@ Uma api simples que recebe express&otilde;es de rolagem por requisi&ccedil;&otil
 &nbsp; &nbsp; &nbsp; &nbsp; &quot;result&quot;: 18<br />
 &nbsp; &nbsp; &nbsp; }<br />
 &nbsp; &nbsp; ],<br />
-&nbsp; &nbsp; &quot;index&quot;: [],<br />
 &nbsp; &nbsp; &quot;result&quot;: 18<br />
 &nbsp; }<br />
 }</p>
